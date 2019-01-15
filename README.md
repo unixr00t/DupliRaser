@@ -8,5 +8,7 @@ While writing,it constantly check for any duplicate in the file. If any line is 
 
 Usage:
 Set Path for input file (i.e. inputFilePath = "Your file path")
+
 Set Path for output file (i.e. resultPath = "Your Result will save here")
+
 python3 dupliraser.py
